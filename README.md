@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Fahmi Riyantama!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+Still Learner
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
