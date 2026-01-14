@@ -37,8 +37,8 @@ I have fast typing skills and foundational programming expertise. I am highly pa
 
 ### <summary><strong>Yosh!</strong></summary>
 * :keyboard: **Currently Learning:** Deepening Mobile App Dev & UI/UX principles.
-* :speech_balloon: **Ask me about:** Front-End, Virtualization (Proxmox), or Leadership.
-* :mailbox: **Reach me at:** [fahmiriyan07@gmail.com](mailto:fahmiriyan07@gmail.com)
+* :speech_balloon: Ask me about anything.</br>
+* :mailbox: How to reach me: <a href="mailto:fahmiriyan07@gmail.com">Email me!</a> 
 
 ### <summary><strong>Let's connect!</strong></summary>
 <p align="left">
