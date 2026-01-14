@@ -44,7 +44,7 @@ Experienced in leadership roles within organizations, I am highly passionate abo
 
 ### <summary><strong>Let's connect!</strong></summary>
 <p align="left">
-  <a href="https://www.instagram.com/yours/">
+  <a href="https://www.instagram.com/fhm_rynn/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </p>
