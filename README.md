@@ -7,27 +7,29 @@
 ### <summary><strong>About Me</strong></summary>
 I am a 7th semester **Informatics Engineering** student at **Muhammadiyah University of Pontianak**. 
 
-I have fast typing skills and foundational programming expertise. I am highly passionate about **Front End Development** and **UI/UX Design**. Experienced in leadership roles within organizations, I love to innovate and collaborate on meaningful projects.
+Experienced in leadership roles within organizations, I am highly passionate about **Front End Development** and **UI/UX Design**. I love to innovate and collaborate on meaningful projects. Let’s innovate and make meaningful projects together!
 
 ---
 
 ### <summary><strong>Tools & Technologies:</strong></summary>
 
-#### 🎨 Design & Front End
+#### 🌐 Web Development (Front End & Back End)
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-#### 📱 Mobile & Backend
+#### 📱 Mobile Development
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-#### 🛠️ Infrastructure & Editors
+#### 🛠️ Systems & Design
 <p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57020?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -44,9 +46,6 @@ I have fast typing skills and foundational programming expertise. I am highly pa
 <p align="left">
   <a href="https://www.instagram.com/yours/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
 
