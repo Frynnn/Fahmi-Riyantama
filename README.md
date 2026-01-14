@@ -10,7 +10,7 @@ Still Learner
 <p>
     - :keyboard: I’m currently learning Mobile App. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
+    - :mailbox: How to reach me: <a href="mailto:fahmiriyan07@gmail.com">Email me!</a>  </br>
 <p>
 
 ### <summary><strong>Let's connect!</strong></summary>
