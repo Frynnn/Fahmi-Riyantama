@@ -4,35 +4,50 @@
   <img src="https://komarev.com/ghpvc/?username=fahmiriyantama&label=Profile%20views&color=0e75b6&style=flat" alt="fahmiriyantama" />
 </p>
 
-> Still Learner. Passionate about building seamless experiences and exploring new technologies.
+### <summary><strong>About Me</strong></summary>
+I am a 7th semester **Informatics Engineering** student at **Muhammadiyah University of Pontianak**. 
 
-### <summary><strong>Tools & Technologies:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Proxmox-E57020?style=for-the-badge&logo=proxmox&logoColor=white" />
-</p>
-
-### <summary><strong>Yosh!</strong></summary>
-* :keyboard: **Currently Learning:** Mobile App Development.
-* :speech_balloon: **Ask me about:** Proxmox, Virtualization, or General IT.
-* :mailbox: **Reach me at:** [fahmiriyan07@gmail.com](mailto:fahmiriyan07@gmail.com)
+I have fast typing skills and foundational programming expertise. I am highly passionate about **Front End Development** and **UI/UX Design**. Experienced in leadership roles within organizations, I love to innovate and collaborate on meaningful projects.
 
 ---
 
-### <summary><strong>Github Analytics:</strong></summary>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmiriyantama&show_icons=true&theme=tokyonight&count_private=true" alt="Fahmi's Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiriyantama&layout=compact&theme=tokyonight" alt="Top Languages" />
+### <summary><strong>Tools & Technologies:</strong></summary>
+
+#### 🎨 Design & Front End
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+
+#### 📱 Mobile & Backend
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+#### 🛠️ Infrastructure & Editors
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57020?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### <summary><strong>Yosh!</strong></summary>
+* :keyboard: **Currently Learning:** Deepening Mobile App Dev & UI/UX principles.
+* :speech_balloon: **Ask me about:** Front-End, Virtualization (Proxmox), or Leadership.
+* :mailbox: **Reach me at:** [fahmiriyan07@gmail.com](mailto:fahmiriyan07@gmail.com)
 
 ### <summary><strong>Let's connect!</strong></summary>
 <p align="left">
   <a href="https://www.instagram.com/yours/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
 </p>
 
-<br />
-
-<p align="center"> © 2023 Fahmi Riyantama, all rights reserved.</p>
+<p align="center"> © 2026 Fahmi Riyantama. Let's innovate together!</p>
