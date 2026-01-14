@@ -47,6 +47,9 @@ Experienced in leadership roles within organizations, I am highly passionate abo
   <a href="https://www.instagram.com/fhm_rynn/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/fahmiriyantama/)">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
 </p>
 
 <p align="center"> © 2026 Fahmi Riyantama. Let's innovate together!</p>
