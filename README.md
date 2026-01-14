@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Fahmi Riyantama!</strong></summary>
+# <summary><strong>Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> , I'm Fahmi Riyantama!</strong></summary>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fahmiriyantama&label=Profile%20views&color=0e75b6&style=flat" alt="fahmiriyantama" />
